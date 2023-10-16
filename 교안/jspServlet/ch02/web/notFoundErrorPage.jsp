@@ -1,8 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" pageEncoding="UTF-8"
          language="java" isErrorPage="true" %>
+
+<%--절대 경로 설정 --%>
 <%
     String path9 = request.getContextPath();
 %>
+
+<%-- 에러 요청 페이지 실습 --%>
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,5 +1,6 @@
 package dto;
 
+// 오른쪽 마우스 누르고 Generate - Getter&Setter + toString ^^
 public class Member {
     private String id;
     private String pw;
